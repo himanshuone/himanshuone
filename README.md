@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">Hey folks! I'm HImanshu Kumar, a diploma Student at Lovely Professional University, Punjab in the Computer Science and Engineering Department. Currently I'm working on improving my Data structures and Problem Solving skills and I also have my hands on Web development. I aspire to be a Devleoper. I'm a self taught learner. I've started from zero, learning from the ground up and still have a long way to go.</h3>
+<h3 align="center">Hey folks! I'm HImanshu Kumar, a diploma Student at Lovely Professional University in the Computer Science and Engineering Department. Currently I'm working on improving my Data structures and Problem Solving skills and I also have my hands on Web development. I aspire to be a Devleoper. I'm a self taught learner. I've started from zero, learning from the ground up and still have a long way to go.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuone&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuone" /> </p>
 
