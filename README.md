@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **Himanhsucome1@gmail.com**
+- 📫 How to reach me **Himanshucome1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CMeZZtzbCnHJ-iwPcNkb6UOIZb1lVh7O/view?usp=sharing](https://drive.google.com/file/d/1CMeZZtzbCnHJ-iwPcNkb6UOIZb1lVh7O/view?usp=sharing)
 
